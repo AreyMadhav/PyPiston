@@ -34,7 +34,7 @@ No external libraries or packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PyPiston.git
+git clone https://github.com/AreyMadhav/PyPiston.git
 ```
 
 Move into the directory:
